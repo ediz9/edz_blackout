@@ -3,6 +3,7 @@ blackout script for fivem
 
 requires: esx , mythic_progbar & notify and vSync
 
+add item for your databse: alienware
 add vSync/vs_server.lua:
 
 RegisterServerEvent('vSync:elektrik')<br>

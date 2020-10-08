@@ -5,7 +5,7 @@ requires: esx , mythic_progbar & notify and vSync
 
 add vSync/vs_server.lua:
 
-RegisterServerEvent('vSync:elektrik')
+RegisterServerEvent('vSync:elektrik')\n
 AddEventHandler('vSync:elektrik', function()
     blackout = not blackout
     TriggerEvent('vSync:requestSync')

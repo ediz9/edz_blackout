@@ -1,6 +1,6 @@
 # edz_blackout
-blackout script for fivem
-showcase: https://streamable.com/o1a4y3
+blackout script for fivem<br>
+showcase: https://streamable.com/o1a4y3<br>
 requires: esx , mythic_progbar & notify and vSync
 
 add item for your database: alienware<br>
